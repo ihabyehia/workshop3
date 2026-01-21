@@ -10,6 +10,5 @@ int main() {
    card1.display();
    card2.display();
    card3.display();
-
    return 0;
 }
